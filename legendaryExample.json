@@ -1,0 +1,35 @@
+{
+    "name":"The Legendary Example Mod - RPG Edition",
+    "version":"0.0.1",
+    "helpers":
+    {
+        "helper0":
+        {
+            "name":"Cookie Chest",
+            "icon":"placeholder.png",
+            "power":5,
+            "price":100
+        },
+        "helper1":
+        {
+            "name":"Tall Grass",
+            "icon":"placeholder.png",
+            "power":10,
+            "price":250
+        },
+        "helper2":
+        {
+            "name":"Cookie Adventurer",
+            "icon":"placeholder.png",
+            "power":35,
+            "price":1000
+        },
+        "helper3":
+        {
+            "name":"Dungeon Crawler",
+            "icon":"placeholder.png",
+            "power":100,
+            "price":5200
+        }
+    }
+}
